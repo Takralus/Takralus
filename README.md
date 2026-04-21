@@ -27,7 +27,7 @@ and share story-driven gameplay content on my YouTube channel:
 
 ## GitHub Stats
 
-<img     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikomania&layout=compact&theme=gruvbox&bg_color=000000"   />
+<img     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takralus&layout=compact&theme=gruvbox&bg_color=000000"   />
 </p>
 
 ## Languages & Tools
